@@ -7,4 +7,4 @@
 https://meal-finder-app.netlify.com/
 
 ## Screenshot
-![](https://github.com/se4astien/meal-finder-app/blob/master/screenshots/meal-finder.png)
+![](https://github.com/se4astien/meal-finder-app-js/blob/master/screenshots/meal-finder.png)
